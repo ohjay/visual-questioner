@@ -57,8 +57,8 @@ By default, the setup script will save `v1.0-simplified_simplified-nq-train.json
 - `train_gpt2_questioner.ipynb`
 - `train_gpt2_questioner.py`
 
-To train (i.e. fine-tune) the GPT-2 model, you have can either run the `train_gpt2_questioner` notebook
-or `python3 train_gpt2_questioner.py`. Both should do the same thing, but the notebook seems to be faster on Jupyterhub.
+To train (i.e. fine-tune) the GPT-2 model, you can either run the `train_gpt2_questioner` notebook
+or `python3 train_gpt2_questioner.py`. Both should do the same thing, but on Jupyterhub the notebook seems to be faster.
 
 ### Evaluation
 - `questioner.ipynb`
