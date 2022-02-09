@@ -3,7 +3,7 @@ gpt-2-simple==0.6
 imageio==2.5.0
 jsonlines==1.2.0
 numpy==1.16.4
-tensorflow-gpu==1.14.0
+tensorflow-gpu==2.5.3
 virtualenv==15.1.0
 PySide2==5.13.1
 PyYAML==5.1.2
