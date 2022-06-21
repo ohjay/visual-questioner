@@ -2,7 +2,7 @@ gast==0.2.2
 gpt-2-simple==0.6
 imageio==2.5.0
 jsonlines==1.2.0
-numpy==1.16.4
+numpy==1.22.0
 tensorflow-gpu==1.14.0
 virtualenv==15.1.0
 PySide2==5.13.1
